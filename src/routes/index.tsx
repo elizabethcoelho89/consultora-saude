@@ -1,8 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState, type FormEvent } from "react";
 import heroImg from "@/assets/hero-consultoria.jpg";
-import portraitAsset from "@/assets/elizabeth.png.asset.json";
-const portraitImg = portraitAsset.url;
+import portraitImg from "@/assets/elizabeth-portrait.jpg";
 import planoIndividual from "@/assets/plano-individual.jpg";
 import planoFamiliar from "@/assets/plano-familiar.jpg";
 import planoPme from "@/assets/plano-pme.jpg";
